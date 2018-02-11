@@ -16,6 +16,7 @@ Simply run:
     >>> python3 downloader.py <file>
 
 e.g.
+
     >>> python3 downloader.py ../tests/example.txt
 
 In this case, the downloaded images can be found in ImageDownloader/images/example
