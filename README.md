@@ -13,7 +13,7 @@ Usage
 
 Simply run:
 
-    >>> python3 downloader.py <file>
+    >>> python downloader.py <file>
 
 e.g.
 
